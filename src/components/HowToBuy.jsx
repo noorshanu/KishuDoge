@@ -4,10 +4,12 @@ import Slider from "./Slider";
 function HowToBuy() {
   return (
     <section className=" ">
-      <div className=" container-wrapper">
+      <div className=" container-wrapper relative">
+        <img src=" images/how.png" alt="" className=" absolute right-0 -top-[10%] h-[150px] sm:h-[300px] floating"   data-aos="fade-right"
+            data-aos-duration="1500"/>
         <div className=" flex items-center justify-center gap-4">
           <div
-            className="   rounded-3xl px-4 w-1/2 h-full backdrop-blur-sm"
+            className="   rounded-3xl px-4 w-1/2 h-full "
             data-aos="fade-right"
             data-aos-duration="1500"
           >
