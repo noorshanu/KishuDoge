@@ -11,7 +11,7 @@ function HowToBuy() {
             data-aos="fade-right"
             data-aos-duration="1500"
           >
-            <h1 className=" text-3xl sm:text-7xl font-bold font-snow py-1 text-center text-black text-sad">
+            <h1 className=" text-2xl sm:text-7xl font-bold font-snow py-1 text-center text-black text-sad">
               {" "}
               How To BUY $KDOGE
             </h1>

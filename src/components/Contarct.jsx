@@ -5,7 +5,7 @@ function Contarct() {
     <section>
       <div className=" container-wrapper">
         <div className=" relative bg-[#e80b34] border-8 py-8 border-[#600214] rounded-3xl">
-          <h1 className=" font-snow txt-s text-white text-8xl font-bold text-center"   data-aos="zoom-in-up"
+          <h1 className=" font-snow txt-s text-white text-5xl sm:text-8xl font-bold text-center"   data-aos="zoom-in-up"
           data-aos-duration="1500">
             Contract
           </h1>
@@ -24,7 +24,7 @@ function Contarct() {
             </a>
           </div>
 
-          <img src=" images/logog.png" alt="" className=" absolute -bottom-4 right-0 h-[350px]" />
+          <img src=" images/logog.png" alt="" className=" absolute -bottom-4 right-0 h-[100px] sm:h-[350px]" />
         </div>
       </div>
     </section>

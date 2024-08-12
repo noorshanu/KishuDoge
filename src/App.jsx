@@ -28,12 +28,12 @@ function App() {
         <Loader />
       ) : (
         <div className="relative overflow-x-hidden">
-          <div className="relative">
-            <video autoPlay playsInline loop muted>
+          <div className="relative bg-[#ed3f3e]  ">
+            <video autoPlay playsInline loop muted className="   w-full h-[100vh] sm:h-full ">
               <source
                 src="images/backbg.mp4"
                 type="video/mp4"
-                className="h-[700px] rounded-b-full"
+                
               />
             </video>
             <div className="absolute top-0 left-0 right-0">
