@@ -88,7 +88,7 @@ function Hero() {
               data-aos-duration="1500"
             >
               <div className=" flex flex-row-reverse justify-start w-full max-w-[300px] gap-4  py-4">
-                <a href="https://www.dextools.io/app/en/solana/" className=" mx-auto " target="_blank" rel="noreferrer">
+                <a href="https://www.dextools.io/app/en/solana/pair-explorer/CZPWAmWqZRrHTYBsgJoa7XiVbZgyHdGw8XZfCUKiokSV?t=1723474275110" className=" mx-auto " target="_blank" rel="noreferrer">
                   {" "}
                   <img
                     src="/images/dex.svg"
