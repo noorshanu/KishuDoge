@@ -10,7 +10,7 @@ function Contarct() {
             Contract
           </h1>
 
-          <p className="font-snow txt-s text-black text-3xl font-bold text-center"   data-aos="zoom-in-left"
+          <p className="font-snow txt-s text-black text-lg sm:text-3xl font-bold text-center"   data-aos="zoom-in-left"
           data-aos-duration="1500">
             coming soon...
           </p>

@@ -14,7 +14,7 @@ function Navbar() {
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src="images/logo.png" className="h-[70px]" alt=" Logo" />
 
-          <h1 className="v font-snow text-xl sm:text-4xl font-bold text-white txt-s ">$KDOGE</h1>
+          <h1 className="v font-snow text-xl sm:text-4xl font-bold text-white txt-s ">$KDOGE   </h1>
         </a>
 
         </div>
