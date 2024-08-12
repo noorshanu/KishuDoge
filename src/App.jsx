@@ -47,13 +47,13 @@ function App() {
             </div>
         
           <AboutUs />
-          <div className=" my-4">
+          <div className=" -mt-2 sm:-mt-44">
             <img src="images/ice.png" alt="" className="w-full h-full" />
           </div>
           <Contarct/>
         
           <Taxs />
-          <div className="w-full my-4">
+          <div className="w-full -mt-2 sm:-mt-44 ">
             <img src="images/ice.png" alt="" className="w-full h-full" />
           </div>
         

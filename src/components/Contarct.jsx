@@ -23,6 +23,8 @@ function Contarct() {
               Buy Now
             </a>
           </div>
+
+          <img src=" images/logog.png" alt="" className=" absolute -bottom-4 right-0 h-[350px]" />
         </div>
       </div>
     </section>
