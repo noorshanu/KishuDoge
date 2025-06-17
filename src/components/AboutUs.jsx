@@ -10,7 +10,7 @@ function AboutUs() {
             data-aos="zoom-in-left"
             data-aos-duration="1500"
           >
-            <h1 className="  p-2 text-3xl sm:text-6xl font-bold font-snow text-sad text-black text-center mb-4">
+            <h1 className="  p-2 text-3xl sm:text-6xl font-bold font-snow  text-black  mb-4">
               MEET KISHU DOGE
             </h1>
 
